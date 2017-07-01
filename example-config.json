@@ -1,0 +1,11 @@
+{
+	"Port": "PortToListen",
+	"BlockTrail_ApiKey": "",
+	"BlockTrail_ApiSecret": "",
+	"Network": "BitcoinNetwork",
+	"ExplorerURL": "BlockExplorerURL",
+	"Key": "TwitterConsumerKey",
+	"Secret": "TwitterConsumerSecret",
+	"Token_Key": "TwitterTokenKey",
+	"Token_Secret": "TwitterTokenSecret"
+}
