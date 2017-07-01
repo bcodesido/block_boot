@@ -1,5 +1,9 @@
 # Block Boot
 
-Block boot that twetts with every new block. This is not a block explorer. Links the blocks to a block explorer.
+Block boot that twetts with every new btc block. This is not a block explorer. Link the blocks to a block explorer.
 
-<b> Live Version: [twitter.com](https://twitter.com/baxteragu)<b>
+
+## Configuration
+
+Move `example-config.json` to `config.json` and set the values according to you.
+
